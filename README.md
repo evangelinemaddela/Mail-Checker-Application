@@ -6,7 +6,7 @@
 Mail Checker Application
 
 ## 🛠️ Description
-Mail-Checker is a python script that lets you read your gmail subjects from particular gmail accounts directly from the terminal without having to login each time!
+Mail-Checker is a Python script that lets you read your Gmail subjects from specific accounts directly from the terminal.
 
 ## ⚙️ Languages or Frameworks Used
 
